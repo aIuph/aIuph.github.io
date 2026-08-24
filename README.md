@@ -1,2 +1,2 @@
-# https://github.com/aIuph
+# github.com/aIuph
 portfolio
